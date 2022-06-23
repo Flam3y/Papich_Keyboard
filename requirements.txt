@@ -1,0 +1,4 @@
+keyboard==0.13.5
+SoundCard==0.4.2
+SoundFile==0.10.3.post1
+wxPython==4.1.1
